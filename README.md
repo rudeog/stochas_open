@@ -1,4 +1,5 @@
 # Stochas 
+PLEASE NOTE!!!! The Stochas canonical repo will be moving to https://github.com/surge-synthesizer/stochas and will be housed there for the future. 
 
 ## History
 Stochas was originally developed as closed-source software back in 2016 and was made available for sale by Audio Vitamins.
